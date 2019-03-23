@@ -111,7 +111,7 @@ author:
   avatar           : "/img/IMG_7584.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "iOS Swift"
   location         : "Somewhere"
-  email            : "uigl777@naver.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
