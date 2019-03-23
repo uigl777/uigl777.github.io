@@ -154,6 +154,17 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Curriculum
+    url: /cv/
+  - title: Publications
+    url: /publications/
+  - title: Code
+    url: /code/
+  - title: Blog
+    url: /blog/
 
 # Reading Files
 include:
