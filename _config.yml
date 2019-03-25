@@ -109,9 +109,9 @@ analytics:
 author:
   name             : "Woojin"
   avatar           : "/img/IMG_7584.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "iOS Swift"
-  location         : "Somewhere"
-  email            : 
+  bio              : "Student"
+  location         : "Seoul, Korea"
+  email            : uigl777@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -121,7 +121,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
