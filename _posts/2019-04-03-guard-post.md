@@ -30,5 +30,4 @@ guard <불리언 표현식> else{
 <br>
 guard문은 기본적으로 특정 조건에 맞지 않을 경우에 현재의 함수나
 <br>
-반복문에서 빠져 나갈수 있도록 하는 '조기 출구(early exit)' 전략을 제공한다.
-![guard](/img/guard.png)
+반복문에서 빠져 나갈수 있도록 하는 '조기 출구(early exit)' 전략을 제공한다.![guard](/img/guard.png)
