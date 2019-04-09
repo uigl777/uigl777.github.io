@@ -19,5 +19,4 @@ categories: iOS
 <br>
 <br>
 다음 함수는 지정되지 않은 개수의 String 값을 매개변수로 받아서<br>
-콘솔에 출력
-![variadicParameter](/img/variadicParameter.png)
+콘솔에 출력 ![variadicParameter](/img/variadicParameter.png)
