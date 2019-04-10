@@ -1,5 +1,5 @@
 ---
-title: "매개변수로 함수를 사용(Functions as Parameters)
+title: "매개변수로 함수를 사용(Functions as Parameters)"
 date: 2019-04-10 19:03:00 -0400
 categories: iOS
 ---
