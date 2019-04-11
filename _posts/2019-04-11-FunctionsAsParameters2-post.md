@@ -7,4 +7,4 @@ categories: iOS
 <br>
 <br>
 반환 타입으로 하수의 타입을 선언하면 함수도 반환될 수 있음
-![FunctionsAsParameters2](/img/FunctionAsParameters2)
+![FunctionsAsParameters2](/img/FunctionsAsParameters2.png)
