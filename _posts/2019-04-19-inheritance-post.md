@@ -14,6 +14,5 @@ class SavingsAccount : BankAccount { //class 자식:부모
 클래스는 부모인 BanckAccount 클래스의 모든 메서드와 속성을 상속받음
 <br>
 <br>
-SavingsAccount 클래스의 인스턴스를 생성하고, 앞의 예제에서<br>
-BankAccount 클래스로 했던 것과 동일한 방법으로 변수를<br>
-설정하고 메서드를 호출할 수 있음
+SavingsAccount 클래스의 인스턴스를 생성하고,<br>
+변수를 설정하고 메서드를 호출할 수 있음
