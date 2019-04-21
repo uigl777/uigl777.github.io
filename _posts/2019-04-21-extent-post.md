@@ -11,3 +11,4 @@ categories: iOS
 <br>
 <br>
 accountBalance는 부모 클래스 BankAccount에 있는 프로퍼티임
+![extend](/img/extend.png)
