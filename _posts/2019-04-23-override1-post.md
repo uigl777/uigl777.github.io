@@ -19,5 +19,6 @@ displayBalance라는 이름의 메서드가 있다.
 <br>
 <br>
 이를 위하여 override 키워드가 앞에 붙은 displayBalance 메서드의 새로운 버전을<br>
-SavingsAccount 클래스에 선언한다.[override](/img/override.png)
+SavingsAccount 클래스에 선언한다.
+[override](/img/override.png)
 
