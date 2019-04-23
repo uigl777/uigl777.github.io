@@ -12,3 +12,11 @@ categories: iOS
 <br>
 BankAccount 클래스에는 은행 계좌 번호와 현재 잔고를 표시하는<br>
 displayBalance라는 이름의 메서드가 있다.
+<br>
+하위 클래스인 SavingsAccount에서는 계좌에 할당된 현재 이자율도 출력하고 싶다.
+<br>
+<br>
+이를 위하여 override 키워드가 앞에 붙은 displayBalance 메서드의 새로운 버전을<br>
+SavingsAccount 클래스에 선언한다.
+[override1](/img/override1.png)
+
