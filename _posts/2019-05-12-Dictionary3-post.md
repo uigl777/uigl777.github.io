@@ -29,4 +29,4 @@ updateValue(forKey:) 메서드에 변경된 값과 해당 키를 전달
 어떤 키-값 쌍을 딕셔너리에서 제거할 때는 nil 값을 그 항목에<br>
 할당하거나 딕셔너리 인스턴스의 removeValueForKey 메서드를<br>
 호출
-![dictionary3](/img/dictionary3)
+![dictionary3](/img/dictionary3.png)
