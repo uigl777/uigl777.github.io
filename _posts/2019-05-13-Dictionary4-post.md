@@ -9,7 +9,7 @@ categories: iOS
 <br>
 다음의 코드는 딕셔너리에 있는 모든 항목을<br>
 가져다가 각각의 키와 값을 출력한다.
-![dictionary4](/img/dictionary4.png
+![dictionary4](/img/dictionary4.png)
 스위프트의 사전 형식에는 정의 된 순서가 없다. 따라서 키,밸류,키/밸류<br>
 쌍의 순서는 반복문을 돌릴때 정해지지 않는다. 특정 순서로 사전의 키 또는 값을<br>
 반복하려면 Keys 또는 value 속성에 sorted() 메서드를 사용한다."
