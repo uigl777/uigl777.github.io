@@ -18,7 +18,7 @@ struct Resolution {<br>
       var height = 0<br>
 }<br>
 <br>
-class VideoMode {
+class VideoMode {<br>
     var resolution = Resolution()<br>
     var interlaced = false<br>
     var frameRate = 0.0<br>
