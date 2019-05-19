@@ -12,6 +12,6 @@ categories: iOS
 인스턴스를 만들어 가리킨다.
 <br>
 <br>
-따라서 aa의 프로퍼티를 변경해도 hd에는<br>
+따라서 aa의 프로퍼티를 변경해도 a에는<br>
 영향을 끼치지 못한다.
 ![ValueType](/img/ValueType.png)
