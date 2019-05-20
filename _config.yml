@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Woojin"
-  avatar           : "/img/IMG_7584.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/img/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Student"
   location         : "Seoul, Korea"
   email            : "uigl777@naver.com"
