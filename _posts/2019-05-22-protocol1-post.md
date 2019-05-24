@@ -1,5 +1,5 @@
 ---
-title: "스위프트 프로토콜(protocol)"
+title: "프로토콜 정의와 채택"
 date: 2019-05-22 23:54:28 -0400
 categories: iOS
 ---
