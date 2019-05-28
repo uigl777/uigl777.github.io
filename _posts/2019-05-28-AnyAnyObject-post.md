@@ -15,3 +15,4 @@ AnyObject
 Any
 - Any can represent an instance of any type at all, including function types.
 - 클래스, 구조체, 열거형, 함수타입도 가능하다
+![Any1](/img/Any1.png)
